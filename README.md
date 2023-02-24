@@ -12,7 +12,7 @@ For this application to be able to run on your computer you have to install npm 
 The main use of this application is to be used by companies that have a large numbers of workers to be able to sort their workers with ease.
 
 ## Authors
-Kilaso, Olabode [great_Kiola]
+Kilaso olabode [great_Kiola]
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
