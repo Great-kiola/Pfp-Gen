@@ -1,0 +1,26 @@
+div.jumbotron.team-heading {
+background-color: #1F5673;
+}
+
+div.card {
+	margin: 10px;
+}
+div.card-header {
+	background-color: #74B3CE;
+}
+
+h1 {
+	color: #fff;
+}
+
+h2.card-title {
+	color: #000;
+}
+
+h3 > i {
+	color: #fff;
+}
+
+div.card-body {
+	background-color: #759FBC;
+}
